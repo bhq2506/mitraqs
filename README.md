@@ -1,6 +1,9 @@
 # Mitra Potensial QS APAC 2026
 
-Web-app satu halaman: shortlist 30 universitas non-Indonesia peserta **QS Higher Ed Summit: Asia Pacific 2026** sebagai calon mitra kerja sama ITS — peringkat QS WUR 2027, skor indikator, tier prioritas, skor kesesuaian, dan nama delegasi.
+Web-app satu halaman dengan dua tab:
+
+- **Shortlist mitra potensial** — 30 universitas non-Indonesia peserta **QS Higher Ed Summit: Asia Pacific 2026** sebagai calon mitra kerja sama ITS dengan peringkat QS WUR 2027, skor indikator, tier prioritas, skor kesesuaian, dan nama delegasi.
+- **Semua universitas** — 207 universitas non-Indonesia dari daftar delegasi (tanpa penilaian), dengan filter shortlist/negara/status QS dan pencarian nama.
 
 Buka `index.html` di browser, atau aktifkan GitHub Pages (Settings → Pages → Deploy from branch → `main` / root).
 
