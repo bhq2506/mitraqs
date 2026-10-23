@@ -17,3 +17,12 @@ Catatan: tier, skor kesesuaian, kelebihan, risiko, dan modus kerja sama adalah a
    - **A – Strategis:** skor ≥ 85 dan STEM/maritim ≥ 4
    - **B – Riset/program:** skor 75–84, atau ≥ 85 dengan STEM/maritim < 4
    - **C – Selektif:** skor < 75, atau override kepatuhan (BIT, Harbin Engineering — afiliasi pertahanan, perlu cek US Entity List)
+
+## Status MoU dengan ITS
+
+Kedua tab menandai status kerja sama tiap universitas, dicocokkan manual dengan basis data kerja sama luar negeri ITS (https://mou.its.ac.id/beranda/kerjasama, diambil 23 Oktober 2026):
+
+- **Aktif** — ada MoU/MoA yang masa berlakunya belum habis
+- **Kedaluwarsa** — pernah ada, sudah berakhir
+- **Perlu dicek** — tanpa tanggal berakhir, atau nama/kampus di basis data tidak persis sama
+- **Belum ada** — tidak ditemukan di basis data
